@@ -1,91 +1,38 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+BRIGITTA RAMOS
+brigitta.ramos@gmail.com | 208-227-4635 | 266 W 3rd S Rexburg, Idaho 83440
+ https://www.linkedin.com/in/brigitta-ramos-4b82271b4/
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+EDUCATION
+Bachelor of Science in Economics, Major	Expected Graduation: December 2023
+Brigham Young University - Idaho	Rexburg, Idaho
+•	Econ Principles and Problems Micro                                              •   Public Economics
+•	Econ Principles and Problems Macro                                             •   International Economics
+•	Agricultural Financial Accounting                                                 •   Investment Analysis
+•	Financial Analytics: Bloomberg Market Concepts Certified         •   Programing: Python Certified 
+ 
+WORK EXPERIENCE
+	
+Microeconomics Tutor	April 2021- Present
+Brigham Young University - Idaho	Rexburg, Idaho
+•	Analyzed the topics and principles that students lacked while they explained what they needed assistance on regarding homework and study material. 
+•	Within appointments of 30 min to an hour explained complex topics, logic, and principles in a simplified broken-down manner until students showed understanding.
+•	Assisted students while solving homework problem sets by reminding them of the principles and keywords, they would use to come to the correct answer. 
+•	Set realistic learning goals for which the students would work towards on their own, then report on in next tutoring session which increased their homework and exam scores by up to 40%.
+	
+Childcare Professional	June 2020 - September 2020
+NAF US Army IMCOM	Brussels, Belgium
+•	Cared for children between the ages of 5-12 in a daycare setting.
+•	Taught and led various weekly projects furnishing expansion of children’s interests and abilities.
+•	Performed proper cleaning and sanitizing procedures to ensure children's safety.
+•	Created, planned, and played new engaging games with children, contributing to higher satisfaction and enjoyment for children.
+•	Led resolution of conflict between children to teach how to work through and resolve problems with peers.
+•	Competed 5+ credits on childcare learning programs contributing to higher success through implementation of learning outcomes.
+	
+Visual Merchandiser	September 2019 - December 2019
+JCPenney	Provo, Utah
+•	Moved merchandise out onto store floor and decided where to place it based on its brand, style, color, or collection.
+•	Stocked and replenished merchandise to ensure a timely and efficient flow of inventory.
+•	Enhanced customer visits by organizing and arranging accessible strategically placed product displays.
+•	Accomplished tasks unassisted, as well as discussed and strategized product displays with my team.
+•	Trained 3 new hires preparing them to work unaided at assigned tasks.
 
